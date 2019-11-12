@@ -1,6 +1,13 @@
 # DCScheduler
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
+-----
+
+<div align="center">
+
+<h3 > HackedIn as web-app  </h3>
+<br>
+<img src="images/homepage.jpeg" width=700px>
 
 ## Development server
 
